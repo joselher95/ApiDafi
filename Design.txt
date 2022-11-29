@@ -1,0 +1,31 @@
+
+
+Request: 
+    Singleton <- 1 Siempre instancia
+    Scoped <- Request 
+    Transient <- Siempre cambia
+
+
+
+Authenticacion: 
+    JWT Jason Web Token 
+ 
+Data Layer Repositorios
+    EF -> Cagadero como el rojo
+    Dapper -> Mini ORM  
+    ADO .NET -> La Pelona sin sentimientos
+
+Controllers
+BOL
+
+DDD Domain Driven Design 
+       
+    
+    
+ Peticion : 
+ 
+ 
+ POST
+ Header:
+    Bearer {{token}} 
+    Cada Peticion <- Castroso como el rojo.
